@@ -87,22 +87,22 @@ ________________________________________
 
 ## Key dashboards
 
-Crime Overview — City of Los Angeles  (2020 - 2024)
-
-Crime_Analytics_Architecture_(Power_BI)
+### Crime_Analytics_Architecture_(Power_BI)
 
 ![Crime_Analytics_Architecture_(Power_BI)](Screenshots/Crime_Analytics_Architecture_(Power_BI).png)
 
+### Crime Overview — City of Los Angeles  (2020 - 2024)
+
 ![CrimeOverview](Screenshots/CrimeOverview.jpg)
 
-Temporal Patterns of Crime — City of Los Angeles  (2020–2024)
+### Temporal Patterns of Crime — City of Los Angeles  (2020–2024)
 
 ![TemporalPatterns](Screenshots/TemporalPatterns.jpg)
 
-Geographic Analysis — City of Los Angeles (2020 - 2024)
+### Geographic Analysis — City of Los Angeles (2020 - 2024)
 
 ![GeographicAnalysis](Screenshots/GeographicAnalysis.jpg)
 
-Victim Profile & Crime Context — City of Los Angeles (2020 - 2024)
+### Victim Profile & Crime Context — City of Los Angeles (2020 - 2024)
 
 ![VictimsCrimes](Screenshots/VictimsCrimes.jpg)
