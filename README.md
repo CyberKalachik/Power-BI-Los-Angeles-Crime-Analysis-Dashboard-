@@ -93,7 +93,7 @@ ________________________________________
 
 ### Crime Overview — City of Los Angeles  (2020 - 2024)
 
-![CrimeOverview](Screenshots/CrimeOverview.jpg)
+![CrimeOverview](Screenshots/Overview.jpg)
 
 ### Temporal Patterns of Crime — City of Los Angeles  (2020–2024)
 
@@ -101,8 +101,8 @@ ________________________________________
 
 ### Geographic Analysis — City of Los Angeles (2020 - 2024)
 
-![GeographicAnalysis](Screenshots/GeographicAnalysis.jpg)
+![GeographicAnalysis](Screenshots/Geographic.jpg)
 
 ### Victim Profile & Crime Context — City of Los Angeles (2020 - 2024)
 
-![VictimsCrimes](Screenshots/VictimsCrimes.jpg)
+![VictimsCrimes](Screenshots/Victims.jpg)
