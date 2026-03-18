@@ -89,6 +89,10 @@ ________________________________________
 
 Crime Overview — City of Los Angeles  (2020 - 2024)
 
+Crime_Analytics_Architecture_(Power_BI)
+
+![Crime_Analytics_Architecture_(Power_BI)](Screenshots/Crime_Analytics_Architecture_(Power_BI).png)
+
 ![CrimeOverview](Screenshots/CrimeOverview.jpg)
 
 Temporal Patterns of Crime — City of Los Angeles  (2020–2024)
