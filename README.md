@@ -14,7 +14,7 @@ ________________________________________
 - Note: In October 2024, LAPD migrated from UCR to the NIBRS reporting system.
 The legacy dataset used in this analysis is no longer updated and is maintained only for historical purposes.
 Because newer records follow a different reporting standard and remain incomplete, 2025 data were excluded.
-- Link to full report: https://app.powerbi.com/view?r=eyJrIjoiOTYzZDUyOGQtMDExMS00MzNiLWI4N2MtMDA1YjA3MjgyYzY1IiwidCI6IjY1NWVhZjVhLTBhMTctNDEzOS05NzU5LTFlMDIzMTRkMDJhYiIsImMiOjZ9
+- Link to full report: https://app.powerbi.com/view?r=eyJrIjoiNWVhNTlmYzAtNjUzZC00Yzg3LWE1MDQtMjNkMTU0ODBiZjJlIiwidCI6IjY1NWVhZjVhLTBhMTctNDEzOS05NzU5LTFlMDIzMTRkMDJhYiIsImMiOjZ9
 ________________________________________
 
 ## Key Analytical Areas
