@@ -89,7 +89,7 @@ ________________________________________
 
 ### Crime_Analytics_Architecture_(Power_BI)
 
-![Crime_Analytics_Architecture_(Power_BI)](Screenshots/Crime_Analytics_Architecture_(Power_BI).png)
+![Crime_Analytics_Architecture](Screenshots/Crime_Analytics_Architecture.png)
 
 ### Crime Overview — City of Los Angeles  (2020 - 2024)
 
